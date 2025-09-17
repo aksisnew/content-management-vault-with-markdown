@@ -6,7 +6,7 @@ TO:
 
 ---
 
-### content strategy for this phase
+### content strategy for this year
 
 {content}
 
@@ -31,7 +31,7 @@ TO:
 
 ---
 
-## CONTENT TO UPLOAD IN THIS PHASE
+## CONTENT TO UPLOAD IN THIS year
 
 - [ ] Item 1
 - [ ] Item 2
@@ -56,6 +56,54 @@ TO:
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
 ---
 
